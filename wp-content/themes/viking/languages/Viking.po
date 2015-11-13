@@ -1,0 +1,226 @@
+# Copyright (C) 2013 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: viking 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2015-01-14 09:39+0100\n"
+"PO-Revision-Date: 2015-01-14 09:39+0100\n"
+"Last-Translator: Carolina Nymark <myazalea@hotmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_nx;esc_attr_x;_ex;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\viking\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/404.php:14
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:48
+msgid "<div class=\"nav-previous\">Older Comments</div>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:49
+msgid "<div class=\"nav-next\">Newer Comments</div>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-page.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-search.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-single.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:22
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-page.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-search.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-single.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:36
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:32
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:32
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:32
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/functions.php:102
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/sidebar.php:12
+msgid "Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/functions.php:149
+msgid "Untitled"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/header.php:20
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/header.php:42
+msgid "Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:16
+msgid "Please note that changing the colors can affect accessibility."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:25
+msgid "Check this box to show the breadcrumb navigation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:31
+msgid "Fonts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:32
+msgid "Changing the header font can affect accessibility."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:44
+msgid "Choose a header font"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/extras.php:42
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/extras.php:53
+msgid "Continue reading: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:24
+msgid "Older posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:28
+msgid "Newer posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:78
+msgid "Pingback:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:78
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:97
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:88
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:94
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:101
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:124
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:156
+#, php-format
+msgid ""
+"Posted on %3$s <span class=\"byline\">by <span class=\"author vcard\"><a "
+"class=\"url fn n\" href=\"%4$s\" rel=\"author\">%6$s.</a></span></span> "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:161
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:166
+#, php-format
+msgid "Category: %1s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:171
+#, php-format
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/no-results.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/no-results.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/no-results.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/search.php:28
+msgid "<h2 class=\"page-title\">Perform another search:</h2>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/searchform.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/searchform.php:10
+msgid "Search &hellip;"
+msgstr ""

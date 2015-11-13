@@ -1,0 +1,333 @@
+# Copyright (C) 2013 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: viking 1.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2015-01-14 09:38+0100\n"
+"PO-Revision-Date: 2015-01-14 09:39+0100\n"
+"Last-Translator: Carolina Nymark <myazalea@hotmail.com>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_nx;esc_attr_x;_ex;esc_attr_e;_ex\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\viking\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Vi kan visst inte hitta den sidan."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/404.php:14
+msgid "It looks like nothing was found at this location."
+msgstr "Det verkar inte finnas något här."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:47
+msgid "Comment navigation"
+msgstr "Navigering för kommentarer"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:48
+msgid "<div class=\"nav-previous\">Older Comments</div>"
+msgstr "<div class=\"nav-previous\">Äldre Kommentarer</div>"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:29
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/comments.php:49
+msgid "<div class=\"nav-next\">Newer Comments</div>"
+msgstr "<div class=\"nav-next\">Nyare Kommentarer</div>"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-page.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-search.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-single.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:22
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-page.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-search.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content-single.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:36
+#, php-format
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:32
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:32
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/content.php:32
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/functions.php:48
+msgid "Primary Menu"
+msgstr "Huvudmeny"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/functions.php:102
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/sidebar.php:12
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/functions.php:149
+msgid "Untitled"
+msgstr "Utan titel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/header.php:20
+msgid "Skip to content"
+msgstr "Hoppa till innehållet"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/header.php:42
+msgid "Menu"
+msgstr "Meny"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:16
+msgid "Please note that changing the colors can affect accessibility."
+msgstr "Om du byter färger kan det påverka hemsidans tillgänglighet."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:25
+msgid "Check this box to show the breadcrumb navigation."
+msgstr "Klicka i rutan för att visa brödsmulorna (navigeringen)."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:31
+msgid "Fonts"
+msgstr "Typsnitt"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:32
+msgid "Changing the header font can affect accessibility."
+msgstr "Om du byter typsnitt kan det påverka hemsidans tillgänglighet."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/customizer.php:44
+msgid "Choose a header font"
+msgstr "Välj ett typsnitt "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/extras.php:42
+#, php-format
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/extras.php:53
+msgid "Continue reading: "
+msgstr "Fortsätt läsa: "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Navigering för inlägg"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:24
+msgid "Older posts"
+msgstr "Äldre inlägg"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:28
+msgid "Newer posts"
+msgstr "Nyare inlägg "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Navigering för inlägg"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:78
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:78
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:97
+msgid "Edit"
+msgstr "Redigera"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:88
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">säger:</span>"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:94
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s kl %2$s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:101
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommenar måste godkännas innan den visas."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:124
+msgid "Home"
+msgstr "Hem"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:156
+#, php-format
+msgid ""
+"Posted on %3$s <span class=\"byline\">by <span class=\"author vcard\"><a "
+"class=\"url fn n\" href=\"%4$s\" rel=\"author\">%6$s.</a></span></span> "
+msgstr ""
+"Publicerad den %3$s <span class=\"byline\"> av <span class=\"author vcard"
+"\"><a class=\"url fn n\" href=\"%4$s\" rel=\"author\">%6$s</a></span></span> "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:161
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:166
+#, php-format
+msgid "Category: %1s"
+msgstr "Kategori: %1s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/inc/template-tags.php:171
+#, php-format
+msgid "Tagged: %1$s"
+msgstr "Etiketter: %1$s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/no-results.php:13
+msgid "Nothing Found"
+msgstr "Ingenting hittades"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/no-results.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Reado att publicera ditt första inlägg? <a href=\"%1$s\">Börja här</a>."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/no-results.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Tyvärr kunde vi inte hitta det du sökte efter.  Vänligen försök igen med "
+"andra nyckelord."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/no-results.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det verkar som om vi inte kan hitta det du letar efter. Kanske kan en "
+"sökning hjälpa dig."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/search.php:28
+msgid "<h2 class=\"page-title\">Perform another search:</h2>"
+msgstr "<h2 class=\"page-title\">Sök igen:</h2>"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/searchform.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/searchform.php:12
+msgid "Search"
+msgstr "Sök"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\viking/searchform.php:10
+msgid "Search &hellip;"
+msgstr "Sök &hellip;"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Kommentarer är avstängda."
+
+#~ msgid "%title"
+#~ msgstr "%title"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "Försök att leta i månadsarkivet. %1$s"
+
+#~ msgid "Viewing all posts by author: %s"
+#~ msgstr "Visar alla inlägg av författaren: %s"
+
+#~ msgid "Day: %s"
+#~ msgstr "Dag: %s"
+
+#~ msgid "Month: %s"
+#~ msgstr "Månad: %s"
+
+#~ msgid "Year: %s"
+#~ msgstr "År: %s"
+
+#~ msgid "Asides"
+#~ msgstr "Noteringar"
+
+#~ msgid "Images"
+#~ msgstr "Bilder"
+
+#~ msgid "Videos"
+#~ msgstr "Videos"
+
+#~ msgid "Quotes"
+#~ msgstr "Citat"
+
+#~ msgid "Links"
+#~ msgstr "Länkar"
+
+#~ msgid "Archives"
+#~ msgstr "Arkiv"
+
+#~ msgid ""
+#~ "Clicking this image will lead you back to the frontpage of the website"
+#~ msgstr ""
+#~ "Genom att klicka på den här bilden kommer du tillbaka till förstasidan på "
+#~ "hemsidan."
+
+#~ msgid "Previous"
+#~ msgstr "Föregående"
+
+#~ msgid "Next"
+#~ msgstr "Nästa"
+
+#~ msgid ""
+#~ "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+#~ "\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+#~ "image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+#~ "\" rel=\"gallery\">%8$s</a> "
+#~ msgstr ""
+#~ "Publicerad <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+#~ "\"%1$s\">%2$s</time></span> kl <a href=\"%3$s\" title=\"Länk till bild i "
+#~ "fullstorlek\">%4$s &times; %5$s</a> under <a href=\"%6$s\" title=\"Gå "
+#~ "tillbaka till %7$s\" rel=\"gallery\">%8$s</a> "
+
+#~ msgid ""
+#~ "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post "
+#~ "a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s"
+#~ "\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</"
+#~ "a>."
+#~ msgstr ""
+#~ "<a class=\"comment-link\" href=\"#respond\" title=\"Skriv en kommentar"
+#~ "\">Skriv en kommentar</a> eller lämna en trackback: <a class=\"trackback-"
+#~ "link\" href=\"%s\" title=\"Trackback URL för ditt inlägg\" rel=\"trackback"
+#~ "\">Trackback URL</a>."
+
+#~ msgid ""
+#~ "Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+#~ "link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+#~ "\">Trackback URL</a>."
+#~ msgstr ""
+#~ "Kommentarer är avstängda, men du kan lämna en trackback: <a class="
+#~ "\"trackback-link\" href=\"%s\" title=\"Trackback URL för ditt inlägg\" "
+#~ "rel=\"trackback\">Trackback URL</a>."
+
+#~ msgid ""
+#~ "Trackbacks are closed, but you can <a class=\"comment-link\" href="
+#~ "\"#respond\" title=\"Post a comment\">post a comment</a>."
+#~ msgstr ""
+#~ "Trackbacks är avstängda, men du kan <a class=\"comment-link\" href="
+#~ "\"#respond\" title=\"Lämna en kommentar\">lämna en kommentar</a>."
+
+#~ msgid "Both comments and trackbacks are currently closed."
+#~ msgstr "Både kommentarer och trackbacks är avstängda."
+
+#~ msgid "Search for:"
+#~ msgstr "Sök efter:"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "Mest använda kategorier"
