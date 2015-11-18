@@ -18,6 +18,8 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
+<?php wp_enqueue_script("jquery"); ?>
+
 <?php wp_head(); ?>
 </head>
 
@@ -42,3 +44,23 @@
 	</header><!-- #masthead -->
 
 	<div id="content" class="site-content">
+
+    <script type="text/javascript">
+
+      $(document).ready(function(){
+    $("#hide").click(function(){
+        $("p").hide();
+    });
+    $("#show").click(function(){
+        $("p").show();
+    });
+});
+        </script>
+
+
+
+
+
+
+
+

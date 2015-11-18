@@ -18,6 +18,7 @@
 	$number = 87; //integer
 	$flot = 3.14;
 
+
 	
 
 	//How to write array
