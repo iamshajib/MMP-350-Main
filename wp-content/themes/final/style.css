@@ -890,3 +890,7 @@ object {
 .gallery-caption {
 	display: block;
 }
+
+#green{
+	background-color: green;
+}

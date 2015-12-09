@@ -48,6 +48,29 @@ get_header(); ?>
 
 		<?php endif; ?>
 
+
+		<!-- starting fo the plugin -->
+
+		<?php rewind_posts(); ?>
+
+        <div id="green">
+            <?php
+
+                $args = array( 'post_type' => 'green_page', 'posts_per_page' => 10 );
+                $loop = new WP_Query( $args );
+                while ( $loop->have_posts() ) : $loop->the_post();
+	                the_title();
+	                echo '<div class="entry-content">';
+	                the_content();
+	                echo '</div>';
+
+                endwhile;
+
+            ?>
+        </div>
+
+        <!-- ending of the plugin -->
+
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
