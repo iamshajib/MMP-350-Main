@@ -11,16 +11,17 @@
 
 ?>
 
-	</div><!-- #content -->
+	</div> <!-- END Page Wrap -->
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'final' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'final' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'final' ), 'final', '<a href="http://underscores.me/" rel="designer">Underscores.me</a>' ); ?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
-</div><!-- #page -->
+	<footer>
+		<div id="footer-quote">
+			Save for Breathing.
+		</div>
+		<div id="footer-copyright">
+			&copy;2015 Md Shajib.
+		</div>
+	</footer>
+
 
 <?php wp_footer(); ?>
 

@@ -13,7 +13,9 @@
  */
 
 get_header(); ?>
+<?php get_sidebar(); ?>
 
+<div id="main-content">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
@@ -25,22 +27,25 @@ get_header(); ?>
 				</header>
 			<?php endif; ?>
 
+
 			<?php /* Start the Loop */ ?>
+
 			<?php while ( have_posts() ) : the_post(); ?>
 
 				<?php
-
-					/*
-					 * Include the Post-Format-specific template for the content.
-					 * If you want to override this in a child theme, then include a file
-					 * called content-___.php (where ___ is the Post Format name) and that will be used instead.
-					 */
 					get_template_part( 'template-parts/content', get_post_format() );
+
+					echo '<div id="pTitle">';
+					the_title();
+					echo '</div>';
+
+					the_content();
 				?>
 
 			<?php endwhile; ?>
 
-			<?php the_posts_navigation(); ?>
+
+
 
 		<?php else : ?>
 
@@ -49,13 +54,10 @@ get_header(); ?>
 		<?php endif; ?>
 
 
-		<!-- starting fo the plugin -->
-
 		<?php rewind_posts(); ?>
 
         <div id="green">
             <?php
-
                 $args = array( 'post_type' => 'green_page', 'posts_per_page' => 10 );
                 $loop = new WP_Query( $args );
                 while ( $loop->have_posts() ) : $loop->the_post();
@@ -65,14 +67,13 @@ get_header(); ?>
 	                echo '</div>';
 
                 endwhile;
-
             ?>
         </div>
 
-        <!-- ending of the plugin -->
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
+</div> <!-- end of main content	 -->
 
-<?php get_sidebar(); ?>
+
 <?php get_footer(); ?>
